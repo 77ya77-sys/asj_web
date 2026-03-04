@@ -13,3 +13,6 @@ Thumbs.db
 # Env
 .env
 .env.local
+
+# Локальные правила и шаблоны (не пушить на GitHub)
+Rules/
